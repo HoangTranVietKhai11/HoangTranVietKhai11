@@ -1,87 +1,67 @@
-# 👨‍💻 Hoàng Trần Việt Khải  
-## Network Infrastructure & System Administrator
+# 👨‍💻 Hoàng Trần Việt Khải
+### System Administrator Intern | Linux System Administrator
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Admin-black?logo=linux">
-  <img src="https://img.shields.io/badge/Networking-CCNA-blue?logo=cisco">
-  <img src="https://img.shields.io/badge/Server-Administration-green">
-  <img src="https://img.shields.io/badge/DevOps-Beginner-orange">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=System%20Administrator&fontSize=38&fontColor=ffffff)
 
 ---
 
-## 🧠 Giới thiệu
-🎓 Sinh viên CNTT  
-🔧 Định hướng: **Hạ tầng mạng – System Administrator – DevOps nền tảng**  
-💡 Đam mê thiết kế, vận hành và tối ưu hệ thống mạng & server
-
----
-
-## 🌐 Network Infrastructure Skills
-- Mô hình **OSI / TCP-IP**
-- Subnetting, VLAN, Trunk
-- Static & Dynamic Routing (RIP, OSPF – cơ bản)
-- NAT, DHCP, DNS
-- Firewall cơ bản
-- Lab bằng **Cisco Packet Tracer / EVE-NG**
+## 🎯 Career Objective
+Sinh viên CNTT định hướng **System Administrator**.  
+Mục tiêu: vận hành, quản trị và đảm bảo tính ổn định, bảo mật cho hệ thống máy chủ.
 
 ---
 
 ## 🖥️ System Administration Skills
-- Linux (Ubuntu, CentOS)
-- User & Permission
-- Systemd / Service Management
+
+### 🐧 Linux
+- Ubuntu Server, CentOS
+- User, Group, Permission
 - SSH, SCP
-- Log & Monitoring cơ bản
+- Systemd & Service Management
+- Log analysis
+- Disk, Mount, LVM (basic)
+
+### 🌐 Network (for SysAdmin)
+- OSI / TCP-IP
+- IP, Subnet
+- VLAN (hiểu & cấu hình cơ bản)
+- DHCP, DNS
+- NAT
+- Firewall (iptables / ufw)
+
+### 🗄️ Server Services
+- Web Server (Nginx)
+- Database Server (MySQL)
+- File Server (Samba)
 - Backup & Restore
 
 ---
 
-## 🛠️ Tools & Technologies
-### 💻 OS
-- Ubuntu Server
-- CentOS
-- Windows Server (basic)
-
-### 🔧 Tools
-- Docker (basic)
+## 🛠️ Tools
+- Linux CLI
 - Git / GitHub
+- Docker (basic – hỗ trợ system)
 - VMware / VirtualBox
 - EVE-NG
-- Nginx
-- MySQL / SQL Server
 
 ---
 
-## 🧪 Labs & Projects
-🔹 **Network Labs**
-- VLAN & Inter-VLAN Routing
-- DHCP Server & Relay
-- NAT & Port Forwarding
-- Basic Firewall Rules
-
-🔹 **System Labs**
+## 🧪 Hands-on Labs
 - Linux Server Setup
-- Web Server (Nginx)
-- Database Server
-- Docker container basic
+- Web & DB Server
+- Network Services
+- System Monitoring
 
 ---
 
 ## 📚 Currently Learning
 - Advanced Linux
-- Network Security
-- Docker & CI/CD
-- Cloud Fundamentals (AWS / Azure)
-
----
-
-## 🎯 Career Goal
-➡️ Network Engineer / System Administrator  
-➡️ DevOps Engineer (future)
+- System Security
+- Monitoring & Logging
+- High Availability (basic)
 
 ---
 
 ## 📫 Contact
-- GitHub: [@HoangTranVietKhai11](https://github.com/HoangTranVietKhai11)
-- Email: khah3222@gmail.com
+- GitHub: https://github.com/HoangTranVietKhai11
+- Email: your-email@gmail.com
