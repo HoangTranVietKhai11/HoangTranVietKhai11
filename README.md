@@ -68,10 +68,6 @@ Triển khai Domain Controller, quản lý User/OU/GPO, tăng cường bảo m�
 **InnkeeperHub — Hệ Thống Quản Lý Lưu Trú** — Dự án nhóm (Tech Lead)
 Điều phối kỹ thuật và chuẩn hóa tài liệu dự án theo SDLC/Agile: Vision & Scope, Product Backlog, Release Plan, Risk Management Plan. Quản lý backlog trên Jira (Sprint, Story Points, Release Roadmap).
 
-**Đồ án tốt nghiệp: DDoS Detection trong SDN cho mạng doanh nghiệp**
-Xây dựng môi trường SDN với Mininet + Ryu Controller, áp dụng XGBoost/Random Forest để phát hiện tấn công DDoS, sử dụng dataset CICDDoS2019 kết hợp dữ liệu tự thu thập từ Mininet.
-
----
 
 ## Currently Learning
 - CCNA (Cisco Certified Network Associate)
