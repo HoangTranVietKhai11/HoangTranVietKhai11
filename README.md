@@ -90,17 +90,6 @@ Xây dựng môi trường SDN với Mininet + Ryu Controller, áp dụng XGBoos
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HoangTranVietKhai11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTranVietKhai11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangTranVietKhai11&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contact
 - 📍 Thủ Đức, TP. Hồ Chí Minh
